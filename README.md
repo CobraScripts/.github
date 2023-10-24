@@ -1,3 +1,5 @@
+#.github
+
 # Cobra Scripts
 
 Welcome to the Cobra Scripts organization on GitHub! We're thrilled to have you here.
