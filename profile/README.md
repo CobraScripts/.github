@@ -26,4 +26,4 @@ Stay up to date with our latest developments and interact with our community by 
 
 We appreciate your interest in our work and look forward to connecting with you. Thanks for being a part of the Cobra Scripts community!
 
-**Note**: This README is just a template and may not fully represent the actual practices and policies of your organization.
+
